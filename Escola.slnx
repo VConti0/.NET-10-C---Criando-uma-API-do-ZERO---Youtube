@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Escola.API/Escola.API.csproj" />
+  <Project Path="Escola.Application/Escola.Application.csproj" />
+  <Project Path="Escola.Domain/Escola.Domain.csproj" />
+  <Project Path="Escola.Infra.Data/Escola.Infra.Data.csproj" />
+  <Project Path="Escola.Infra.Ioc/Escola.Infra.Ioc.csproj" />
+</Solution>
